@@ -1,0 +1,1 @@
+{ "name": "hdn-candado", "version": "0.1.0", "description": "Candado de audio de Hecho de Nada: bloquea upload.py y buffer_post.py si el video no tiene QA por código aprobado." }

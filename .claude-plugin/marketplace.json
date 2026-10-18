@@ -1,0 +1,5 @@
+{
+  "name": "hdn-media",
+  "owner": { "name": "ivanhierrezuelo4-dev" },
+  "plugins": [{ "name": "hdn-candado", "source": "./plugins/hdn-candado" }]
+}
