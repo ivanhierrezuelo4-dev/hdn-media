@@ -6,6 +6,8 @@ Bloquea cualquier subida o programación (YouTube con `upload.py`, Buffer con `b
 
 Instalar (una vez, dentro de Claude Code):
 ```
-/plugin marketplace add ivanhierrezuelo4-dev/hdn-media
+/plugin marketplace add https://github.com/ivanhierrezuelo4-dev/hdn-media.git#claude/project-thread-1nng4g
 /plugin install candado-audio@hdn-media
 ```
+
+Vive en la rama `claude/project-thread-1nng4g`, no en `media`: así no rompe el `git push HEAD:media` de `buffer_post.py`.
