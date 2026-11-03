@@ -1,0 +1,16 @@
+id: short38  idea: canas_susto  serie: TU CUERPO TE MIENTE #13  plantilla: C  (video A, miércoles 4-nov)
+gancho fotograma 0: NO ES DE UN SUSTO
+look: set y paleta distintos a short37 (ver CATALOGO.md); accesorio sugerido: peine o gorro de dormir
+VOZ (Tito):
+Un susto no te pone el pelo blanco de la noche a la mañana. El pelo que ya salió no puede cambiar de color.
+Cada pelo es tejido muerto. Su color se fabrica abajo, en la raíz, y queda fijo cuando sale.
+Pero el estrés sí hace algo: en dos mil veinte, en Harvard, vieron en ratones que el estrés agota las células que dan color. El pelo que nace después sale blanco.
+O sea: sí te pueden salir canas por estrés, pero tardan semanas, no una noche.
+NODO (opina): Yo me asusto diario y sigo igual de verde. Bueno, no tengo pelo.
+¿Lo sabías? Comenta SÍ o NO.
+Mañana, número catorce: ahora mismo estás llorando.
+ANIMACIÓN: pelo oscuro con un rayo de susto que NO lo cambia (tachón) -> corte de piel con raíz y "fábrica" de color subiendo pigmento -> nervio de estrés encendido, fábricas apagándose -> pelo nuevo creciendo blanco con reloj de semanas.
+FUENTES: Zhang et al., Nature 2020 (Hsu lab, Harvard: estrés -> nervios simpáticos agotan células madre de melanocitos en ratones); el pelo ya formado no tiene pigmento vivo (AAD).
+POST línea 1: Mándaselo a quien todavía cree que un susto te deja canoso en una noche.
+POST línea 2: ¿Lo sabías? Comenta SÍ o NO.
+YT título: ¿Un susto te pone el pelo blanco? | Tu cuerpo te miente #13 #Shorts

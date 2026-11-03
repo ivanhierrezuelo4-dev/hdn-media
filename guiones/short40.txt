@@ -1,0 +1,16 @@
+id: short40  idea: lagrimas  serie: TU CUERPO TE MIENTE #14  plantilla: B  (video A, jueves 5-nov)
+gancho fotograma 0: ESTÁS LLORANDO
+look: set y paleta distintos a short39 (ver CATALOGO.md); accesorio sugerido: pañuelo o gotero
+VOZ (Tito):
+Ahora mismo tus ojos están llorando y no lo notas.
+Una glándula arriba de cada ojo fabrica lágrimas todo el día. Cada vez que parpadeas, las repartes como un limpiaparabrisas.
+Después se van por dos agujeritos en la esquina del ojo, y bajan directo a tu nariz.
+Por eso cuando lloras fuerte te moquea la nariz: es la misma lágrima, saliendo por el otro lado.
+NODO (opina): O sea que todos lloran todo el día. Ya me siento menos solo.
+¿Lo sabías? Comenta SÍ o NO.
+Mañana, número quince: pellízcate el codo.
+ANIMACIÓN: ojo en primer plano, gotitas mínimas saliendo de la glándula (arriba-afuera) -> párpado barriendo como limpiaparabrisas -> dos puntos en la esquina interna, tubo bajando a la nariz -> llanto fuerte: el tubo se llena y sale por la nariz.
+FUENTES: lágrima basal continua de la glándula lagrimal y drenaje por los puntos lagrimales -> conducto nasolagrimal -> nariz (American Academy of Ophthalmology; Cleveland Clinic).
+POST línea 1: Mándaselo a quien dice que nunca llora.
+POST línea 2: ¿Lo sabías? Comenta SÍ o NO.
+YT título: ¿Por qué te moquea la nariz al llorar? | Tu cuerpo te miente #14 #Shorts

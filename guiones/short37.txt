@@ -1,0 +1,16 @@
+id: short37  idea: colon_plana  serie: TE MINTIERON #11  plantilla: C  (video B, martes 3-nov)
+gancho fotograma 0: YA SABÍAN QUE ERA REDONDA
+look: set y paleta distintos a short36 y al anterior (ver CATALOGO.md); accesorio sugerido: catalejo o sombrero de capitán
+VOZ (Tito):
+En tiempos de Colón nadie culto creía que la Tierra era plana. Su tamaño ya se había medido mil setecientos años antes.
+Eratóstenes, en Egipto, comparó la sombra del sol en dos ciudades al mismo mediodía. Así calculó el tamaño de la Tierra, y casi acierta.
+Entonces, ¿por qué le dijeron que no a Colón? Porque él creía la Tierra mucho más chica. Los expertos tenían razón: con esa distancia no llegaba a Asia.
+Lo salvó un continente entero que nadie esperaba en medio.
+NODO (opina): Hizo mal la cuenta y le salió bien. Yo quiero esa suerte.
+¿Lo sabías? Comenta SÍ o NO.
+Mañana, número doce: Napoleón no era bajito.
+ANIMACIÓN: barco ante un borde de mapa plano (tachado) -> globo -> dos ciudades con palitos y sombras, ángulo dibujándose -> globo grande de los expertos vs globo chico de Colón -> América apareciendo en medio.
+FUENTES: Eratóstenes c. 240 a.C. (Alejandría/Siena); comisión de Salamanca 1486-1490 objetó la distancia, no la forma; el mito lo popularizó Washington Irving (1828).
+POST línea 1: Mándaselo a quien todavía cree que en 1492 pensaban que la Tierra era plana.
+POST línea 2: ¿Lo sabías? Comenta SÍ o NO.
+YT título: ¿En tiempos de Colón creían que la Tierra era plana? | Te mintieron #11 #Shorts

@@ -1,0 +1,16 @@
+id: short36  idea: lengua_mapa  serie: TU CUERPO TE MIENTE #12  plantilla: C  (video A, martes 3-nov)
+gancho fotograma 0: LA LENGUA MIENTE
+look: set y paleta distintos a los dos Shorts anteriores (ver CATALOGO.md); accesorio sugerido: babero o cuchara
+VOZ (Tito):
+El mapa de sabores de la lengua que te enseñaron es falso. Dulce en la punta, amargo atrás: eso no existe.
+Viene de un estudio alemán de mil novecientos uno que solo notó diferencias mínimas. En mil novecientos cuarenta y dos alguien dibujó mal su gráfica, y los libros la copiaron.
+La verdad: todas las zonas de tu lengua con papilas sienten los cinco sabores. Dulce, salado, ácido, amargo y umami.
+Pruébalo hoy: pon azúcar atrás, en la lengua. La vas a sentir dulce.
+NODO (opina): Yo ni tengo lengua, y aun así me hicieron memorizar el mapa.
+¿Lo sabías? Comenta SÍ o NO.
+Mañana, número trece: un susto no te pone el pelo blanco.
+ANIMACIÓN: lengua con el mapa clásico por zonas -> las zonas se tachan -> zoom a una papila con 5 receptores de colores encendiéndose -> azúcar atrás, brillo "DULCE".
+FUENTES: Hanig 1901 (Zur Psychophysik des Geschmackssinnes); Boring 1942 lo interpretó mal; Chandrashekar et al., Nature 2006 (receptores en todas las regiones con papilas).
+POST línea 1: Mándaselo a quien todavía cree que la lengua tiene zonas de sabor.
+POST línea 2: ¿Lo sabías? Comenta SÍ o NO.
+YT título: ¿El mapa de sabores de la lengua es real? | Tu cuerpo te miente #12 #Shorts

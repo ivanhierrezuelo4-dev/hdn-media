@@ -1,0 +1,16 @@
+id: short39  idea: napoleon  serie: TE MINTIERON #12  plantilla: C  (video B, miércoles 4-nov)
+gancho fotograma 0: NO ERA BAJITO
+look: set y paleta distintos a short38 (ver CATALOGO.md); accesorio sugerido: bicornio
+VOZ (Tito):
+Napoleón no era bajito. Medía lo normal para su época, un metro sesenta y nueve más o menos.
+El error salió de una regla. En su autopsia anotaron cinco pies y dos pulgadas, pero en pulgadas francesas, que eran más largas que las inglesas.
+Los ingleses lo leyeron con las suyas y lo encogieron a un metro cincuenta y siete.
+Y sus enemigos lo dibujaban diminuto a propósito. A eso súmale que siempre andaba rodeado de guardias altísimos.
+NODO (opina): Lo achicaron con una regla. Que nadie me mida a mí.
+¿Lo sabías? Comenta SÍ o NO.
+Mañana, número trece: el pulpo tiene tres corazones.
+ANIMACIÓN: Napoleón diminuto en caricatura (tachón) -> regla francesa vs regla inglesa, pulgada francesa más larga -> la misma cifra da dos alturas (1,69 vs 1,57) -> caricatura de periódico inglés -> Napoleón normal entre guardias gigantes.
+FUENTES: autopsia (Antommarchi, 1821): 5 pieds 2 pouces ≈ 1,68-1,69 m; pulgada francesa 2,71 cm vs inglesa 2,54 cm; caricaturas de James Gillray ("Little Boney"); estatura media del francés de la época ≈ 1,64-1,65 m.
+POST línea 1: Mándaselo a quien todavía cree que Napoleón era bajito.
+POST línea 2: ¿Lo sabías? Comenta SÍ o NO.
+YT título: ¿Napoleón era bajito? | Te mintieron #12 #Shorts

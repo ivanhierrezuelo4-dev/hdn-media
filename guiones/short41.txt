@@ -1,0 +1,16 @@
+id: short41  idea: pulpo_corazones  serie: TE MINTIERON #13  plantilla: A  (video B, jueves 5-nov)
+gancho fotograma 0: 3 CORAZONES
+look: set y paleta distintos a short40 (ver CATALOGO.md); accesorio sugerido: visor de buceo
+VOZ (Tito):
+El pulpo tiene tres corazones y la sangre azul. Ese sí.
+Dos corazones pequeños empujan la sangre solo por las branquias. El tercero, el grande, la manda al resto del cuerpo.
+Es azul porque lleva cobre en vez de hierro. Con el frío y poco oxígeno del mar le funciona mejor.
+Y lo más raro: cuando nada, el corazón grande se detiene. Por eso prefiere caminar con los brazos: nadar lo cansa.
+NODO (opina): Tres corazones y aún así se cansa. Yo con uno estoy bien.
+¿Lo sabías? Comenta SÍ o NO.
+Mañana, número catorce: el camaleón no se camufla.
+ANIMACIÓN: pulpo con 3 corazones latiendo (2 chicos a los lados de las branquias, 1 grande al centro) -> flujo azul por branquias y luego al cuerpo -> átomo de cobre vs hierro (azul vs rojo) -> pulpo nadando con el corazón grande en pausa (línea plana) -> caminando y el corazón vuelve a latir.
+FUENTES: Smithsonian Ocean / NOAA (2 corazones branquiales + 1 sistémico, hemocianina con cobre); Wells 1983 (el corazón sistémico se detiene al nadar a chorro).
+POST línea 1: Mándaselo a quien cree que la sangre azul no existe.
+POST línea 2: ¿Lo sabías? Comenta SÍ o NO.
+YT título: ¿El pulpo tiene 3 corazones? | Te mintieron #13 #Shorts

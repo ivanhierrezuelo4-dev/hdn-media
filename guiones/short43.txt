@@ -1,0 +1,16 @@
+id: short43  idea: camaleon  serie: TE MINTIERON #14  plantilla: C  (video B, viernes 6-nov)
+gancho fotograma 0: NO SE CAMUFLA
+look: set y paleta distintos a short42 (ver CATALOGO.md); accesorio sugerido: lupa o gafas de explorador
+VOZ (Tito):
+El camaleón no cambia de color para esconderse. Cambia por cómo se siente.
+Su color de siempre ya lo camufla. Los cambios fuertes los hace para pelear, para conquistar pareja, o para calentarse al sol.
+Y no lo hace con pintura. Bajo su piel hay cristales diminutos. Cuando se relaja quedan juntos y se ve verde; cuando se emociona se separan y brilla amarillo o rojo.
+Un macho enojado se pone más llamativo, no menos.
+NODO (opina): Se pone rojo cuando se enoja. Igualito a mi jefe.
+¿Lo sabías? Comenta SÍ o NO.
+Mañana, número quince: el agua del inodoro no gira al revés.
+ANIMACIÓN: camaleón sobre fondo a cuadros intentando copiarlo (tachón) -> dos machos frente a frente encendiéndose de colores -> zoom bajo la piel: red de cristales que se juntan (verde) y se separan (amarillo/rojo) -> macho brillante y muy visible.
+FUENTES: Teyssier et al., Nature Communications 2015 (iridóforos con nanocristales de guanina que cambian de separación); Stuart-Fox & Moussalli 2008 (el cambio sirve sobre todo para comunicarse).
+POST línea 1: Mándaselo a quien todavía cree que el camaleón se camufla.
+POST línea 2: ¿Lo sabías? Comenta SÍ o NO.
+YT título: ¿El camaleón cambia de color para esconderse? | Te mintieron #14 #Shorts

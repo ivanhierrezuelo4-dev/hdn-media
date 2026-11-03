@@ -1,0 +1,16 @@
+id: short42  idea: codo  serie: TU CUERPO TE MIENTE #15  plantilla: D  (video A, viernes 6-nov)
+gancho fotograma 0: PELLÍZCATE EL CODO
+look: set y paleta distintos a short41 (ver CATALOGO.md); accesorio sugerido: rodilleras/coderas o curita
+VOZ (Tito):
+Pellízcate el codo. No duele. Te digo por qué.
+La piel del codo es floja y elástica, para que puedas doblar el brazo. Tiene menos terminaciones nerviosas que la de tus dedos.
+Por eso puedes estirarla y casi no la sientes.
+Pero cuidado: si te golpeas un poquito más abajo, sientes un corrientazo. Eso no es el hueso, es un nervio que pasa ahí sin protección.
+NODO (opina): Le dicen hueso de la risa y no da risa. Otro engaño.
+¿Lo sabías? Comenta SÍ o NO.
+Mañana, número dieciséis: el frío no te enferma.
+ANIMACIÓN: dedos pellizcando un codo, medidor de dolor en cero -> piel del codo estirándose como chicle al doblar el brazo -> mapa de terminaciones (muchas en la yema, pocas en el codo) -> golpe en el borde interno, rayo eléctrico recorriendo el nervio hasta el meñique.
+FUENTES: piel del olécranon laxa y con baja densidad de receptores; "funny bone" = nervio cubital superficial en el surco del codo (Cleveland Clinic; Merck Manual).
+POST línea 1: Mándaselo a quien no se ha pellizcado el codo todavía.
+POST línea 2: ¿Te dolió? Comenta SÍ o NO.
+YT título: ¿Por qué no duele pellizcarte el codo? | Tu cuerpo te miente #15 #Shorts
