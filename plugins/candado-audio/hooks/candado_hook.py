@@ -6,7 +6,7 @@ Bloquea:
 - Comandos que suben por fuera de esos scripts (API de YouTube o Buffer directa).
 - Buffer MCP create_post/edit_post con un video sin <video>.qa.json PASA en la carpeta de trabajo.
 """
-import io, json, os, re, sys
+import json, os, re, sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import candado  # noqa: E402
@@ -85,9 +85,14 @@ def revisar_buffer(tool_input, cwd):
         bloquear("\n".join("- " + m for m in malos) + "\nCorre candado.py check sobre ese video antes de programarlo.")
 
 
+RAW = ""
+
+
 def main():
+    global RAW
+    RAW = sys.stdin.buffer.read().decode("utf-8", "replace")
     try:
-        ev = json.load(io.TextIOWrapper(sys.stdin.buffer, encoding="utf-8"))
+        ev = json.loads(RAW)
     except ValueError:
         return 0
     tool, ti = ev.get("tool_name", ""), ev.get("tool_input") or {}
@@ -100,4 +105,14 @@ def main():
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    try:
+        sys.stderr.reconfigure(encoding="utf-8", errors="replace")  # Windows: consola cp1252
+    except AttributeError:
+        pass
+    try:
+        sys.exit(main())
+    except SystemExit:
+        raise
+    except Exception as ex:  # si el candado falla, una subida no pasa; lo demás sí
+        sys.stderr.write(f"candado-audio: error interno ({ex!r})\n")
+        sys.exit(2 if re.search(r"upload\.py|buffer_post\.py|create_post|edit_post", RAW) else 1)

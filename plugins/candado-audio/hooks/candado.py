@@ -449,21 +449,29 @@ def pending_from_command(cmd, cwd):
         if not script or "--dry-run" in argv:
             continue
         sdir = os.path.dirname(os.path.join(here, script))
+        only = argv[argv.index("--only") + 1] if "--only" in argv[:-1] else None
         if script.endswith("upload.py"):
-            qf, base, done = os.path.join(here, "queue.json"), here, "uploaded"
+            # nube: queue.json en la carpeta actual y rutas relativas a ella;
+            # PC: queue.json junto a upload.py y rutas relativas a la raíz del proyecto (2 niveles arriba)
+            qf = os.path.join(sdir, "queue.json")
+            if not os.path.exists(qf):
+                qf = os.path.join(here, "queue.json")
+            bases, done = [os.path.dirname(os.path.dirname(sdir)), sdir, here], "uploaded"
         else:
             if "run" not in argv:
                 continue
             qf = env.get("BUFFER_QUEUE") or os.environ.get("BUFFER_QUEUE") or os.path.join(sdir, "social_queue.json")
-            qf, base, done = os.path.join(here, qf), sdir, "buffer_ids"
+            qf, bases, done = os.path.join(here, qf), [sdir], "buffer_ids"
         try:
             queue = json.load(open(qf, encoding="utf-8"))
         except (OSError, ValueError):
             yield None, f"no pude leer la cola {qf}"
             continue
         for item in queue:
-            if not item.get(done):
-                yield os.path.join(base, item["file"]), None
+            if item.get(done) or (only and item.get("id") != only):
+                continue
+            rutas = [os.path.normpath(os.path.join(b, item["file"])) for b in bases]
+            yield next((r for r in rutas if os.path.exists(r)), rutas[0]), None
 
 
 def comando(a):
