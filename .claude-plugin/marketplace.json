@@ -1,0 +1,12 @@
+{
+  "name": "hdn-media",
+  "owner": { "name": "ivanhierrezuelo4-dev" },
+  "plugins": [
+    {
+      "name": "candado-audio",
+      "source": "./plugins/candado-audio",
+      "description": "Bloquea subidas y programaciones (YouTube, Buffer) de videos sin QA de audio PASA.",
+      "version": "1.0.0"
+    }
+  ]
+}

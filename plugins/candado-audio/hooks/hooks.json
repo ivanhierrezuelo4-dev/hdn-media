@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash|PowerShell|mcp__.*[Bb]uffer.*__(create_post|edit_post)",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "for p in python py python3; do command -v $p >/dev/null 2>&1 && exec $p \"${CLAUDE_PLUGIN_ROOT}/hooks/candado_hook.py\"; done; echo \"candado-audio: no encuentro python; las subidas igual pasan por el candado dentro de upload.py/buffer_post.py\" >&2; exit 1",
+            "timeout": 120
+          }
+        ]
+      }
+    ]
+  }
+}
